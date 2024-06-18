@@ -36,7 +36,7 @@ services:
 static_sites:
 - name: static
   github:
-    repo: turnip99/bidding-software
+    repo: Thomas1575/bidding-software
     branch: master
     deploy_on_push: true
   output_dir: staticfiles
