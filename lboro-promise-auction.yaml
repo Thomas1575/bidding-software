@@ -24,7 +24,7 @@ services:
   github:
     branch: master
     deploy_on_push: true
-    repo: turnip99/bidding-software
+    repo: Thomas1575/bidding-software
   http_port: 8080
   instance_count: 1
   instance_size_slug: basic-s
